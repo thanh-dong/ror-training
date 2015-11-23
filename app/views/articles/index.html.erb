@@ -1,0 +1,10 @@
+<div class="container">
+<p id="notice"><%= notice %></p>
+  <h1>Thanh's blog</h1>
+  <h3>This is a blog built by RoR</h3>
+
+  <%= render @articles %>
+  <br>
+
+  <%= link_to 'New Article', new_article_path, class:'btn'%>
+</div>
