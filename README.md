@@ -12,9 +12,9 @@ URL: **https://glacial-mesa-9147.herokuapp.com/articles**
 
 The following **required** functionality is complete:
 
-* [ x ] User can create a new post, formatted using the Markdown language.
-* [ x ] User can edit an existing post.
-* [ x ] There is one post that introduces the App Creator with name, picture.
+* [x] User can create a new post, formatted using the Markdown language.
+* [x] User can edit an existing post.
+* [x] There is one post that introduces the App Creator with name, picture.
 
 The following **optional** features are implemented:
 * [ ] User can delete stories, with an alert that asks the user to confirm.
