@@ -24,10 +24,6 @@ The following **optional** features are implemented:
 * [ ] User can see how many views a post has. 
 * [ ] User can leave a comment on a post.
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
